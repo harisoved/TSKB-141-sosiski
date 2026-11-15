@@ -8,3 +8,4 @@
 
 ### Модуль 2
 * :white_check_mark: Задание 2-1 — [Условие (Issue #8)](https://github.com/harisoved/TSKB-141-sosiski/issues/5) | [Перейти к коду (ветка 2-1)](https://github.com/harisoved/TSKB-141-sosiski/blob/2.1/2.1.c)
+* :white_check_mark: Задание 2-2 — [Условие (Issue #8)](https://github.com/harisoved/TSKB-141-sosiski/issues/8) | [Перейти к коду (ветка 2-1)](https://github.com/harisoved/TSKB-141-sosiski/blob/2.2/2.2.%D1%81)
