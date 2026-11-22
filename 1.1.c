@@ -39,3 +39,4 @@ double GETa (const double x, const double y, const double z) {
 
 double GETb (const double x, const double y, const double z) {
   return exp(-z) (x + sqrt(x+z)) / (x - sqrt(fabs(x-y)));
+}
