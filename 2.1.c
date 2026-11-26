@@ -53,23 +53,19 @@ int main()
     return 0;
 }
 
-double minOfThree(const double a, const double b, const double c)
-{
+double minOfThree(const double a, const double b, const double c){
     return fmin(a, fmin(b, c));
 }
 
-double midOfThree(const double a, const double b, const double c)
-{
+double midOfThree(const double a, const double b, const double c){
     return fmax(fmin(a, b), fmin(fmax(a, b), c));
 }
 
-double maxOfThree(const double a, const double b, const double c)
-{
+double maxOfThree(const double a, const double b, const double c){
     return fmax(a, fmax(b, c));
 }
 
-double getDouble()
-{
+double getDouble(){
     double value = 0.0;
     if (scanf("%lf", &value) != 1)
     {
